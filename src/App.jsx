@@ -41,12 +41,9 @@ function App() {
               permitiendo que tu equipo se concentre en lo más importante: la salud de tus pacientes.
             </p>
             <div className="hero-actions">
-              <button className="btn btn-primary">
+              <a href="#servicios" className="btn btn-primary">
                 Descubrir cómo <ChevronRight size={20} />
-              </button>
-              <button className="btn btn-outline">
-                Contactar Ventas
-              </button>
+              </a>
             </div>
           </div>
         </div>
