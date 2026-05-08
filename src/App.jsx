@@ -108,7 +108,7 @@ function App() {
                 </div>
                 <h3 className="card-title">Nuestro Compromiso</h3>
                 <p className="card-text" style={{ marginBottom: '1rem' }}>
-                  En Automatización Clínica, sabemos que la información de tus pacientes es sagrada.
+                  Sabemos que la información de tus pacientes es sagrada.
                   Nuestra plataforma como servicio (SaaS) está diseñada con una arquitectura de confianza cero (Zero Trust)
                   para garantizar que solo el personal autorizado acceda a los expedientes.
                 </p>
@@ -149,10 +149,10 @@ function App() {
         <div className="container footer-content">
           <div className="logo" style={{ fontSize: '1.25rem' }}>
             <Stethoscope size={20} color="#06b6d4" />
-            <span>Automatización Clínica</span>
+            <span>Gestión de Horarios - OdontoSalud</span>
           </div>
           <div className="footer-text">
-            © {new Date().getFullYear()} Automatización Clínica. Todos los derechos reservados.
+            © {new Date().getFullYear()} Gestión de Horarios - OdontoSalud. Todos los derechos reservados.
           </div>
         </div>
       </footer>
