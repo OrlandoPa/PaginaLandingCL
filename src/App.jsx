@@ -1,13 +1,13 @@
 import React from 'react';
-import { 
-  Stethoscope, 
-  Bot, 
-  CalendarCheck, 
-  FileCheck, 
-  ShieldCheck, 
-  Lock, 
-  Server, 
-  ChevronRight 
+import {
+  Stethoscope,
+  Bot,
+  CalendarCheck,
+  FileCheck,
+  ShieldCheck,
+  Lock,
+  Server,
+  ChevronRight
 } from 'lucide-react';
 
 function App() {
@@ -18,7 +18,7 @@ function App() {
         <div className="container">
           <div className="logo">
             <Stethoscope size={28} color="#06b6d4" />
-            <span>Automatización Clínica</span>
+            <span>Gestión de Horarios Dr. Sayer</span>
           </div>
           <div className="nav-links">
             <a href="#inicio">Inicio</a>
@@ -33,11 +33,11 @@ function App() {
         <div className="container">
           <div className="hero-content">
             <h1>
-              El futuro de la gestión en tu <br />
+              El futuro de la gestión en<br />
               <span className="gradient-text">Gestión de Horarios Dr. Sayer</span>
             </h1>
             <p>
-              Optimizamos los procesos administrativos mediante automatización inteligente, 
+              Optimizamos los procesos administrativos mediante automatización inteligente,
               permitiendo que tu equipo se concentre en lo más importante: la salud de tus pacientes.
             </p>
             <div className="hero-actions">
@@ -56,7 +56,7 @@ function App() {
             <h2>Procesos que Automatizamos</h2>
             <p>Convertimos tareas repetitivas en flujos de trabajo eficientes, sin errores y completamente digitales.</p>
           </div>
-          
+
           <div className="grid-3">
             <div className="glass-card glass">
               <div className="icon-container">
@@ -67,7 +67,7 @@ function App() {
                 Recordatorios automáticos por WhatsApp y correo, confirmaciones de asistencia y reprogramación sin intervención manual.
               </p>
             </div>
-            
+
             <div className="glass-card glass">
               <div className="icon-container">
                 <FileCheck size={28} />
@@ -108,8 +108,8 @@ function App() {
                 </div>
                 <h3 className="card-title">Nuestro Compromiso</h3>
                 <p className="card-text" style={{ marginBottom: '1rem' }}>
-                  En Automatización Clínica, sabemos que la información de tus pacientes es sagrada. 
-                  Nuestra plataforma como servicio (SaaS) está diseñada con una arquitectura de confianza cero (Zero Trust) 
+                  En Automatización Clínica, sabemos que la información de tus pacientes es sagrada.
+                  Nuestra plataforma como servicio (SaaS) está diseñada con una arquitectura de confianza cero (Zero Trust)
                   para garantizar que solo el personal autorizado acceda a los expedientes.
                 </p>
                 <button className="btn btn-outline">Leer Política Completa</button>
