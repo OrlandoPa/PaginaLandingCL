@@ -34,7 +34,7 @@ function App() {
           <div className="hero-content">
             <h1>
               El futuro de la gestión en tu <br />
-              <span className="gradient-text">Clínica Odontológica</span>
+              <span className="gradient-text">Gestión de Horarios Dr. Sayer</span>
             </h1>
             <p>
               Optimizamos los procesos administrativos mediante automatización inteligente, 
