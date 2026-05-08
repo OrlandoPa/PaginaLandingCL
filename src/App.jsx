@@ -18,7 +18,7 @@ function App() {
         <div className="container">
           <div className="logo">
             <Stethoscope size={28} color="#06b6d4" />
-            <span>Gestión de Horarios Dr. Sayer</span>
+            <span>Gestión de Horarios - OdontoSalud</span>
           </div>
           <div className="nav-links">
             <a href="#inicio">Inicio</a>
@@ -34,7 +34,7 @@ function App() {
           <div className="hero-content">
             <h1>
               El futuro de la gestión en<br />
-              <span className="gradient-text">Gestión de Horarios Dr. Sayer</span>
+              <span className="gradient-text">Gestión de Horarios - OdontoSalud</span>
             </h1>
             <p>
               Optimizamos los procesos administrativos mediante automatización inteligente,
